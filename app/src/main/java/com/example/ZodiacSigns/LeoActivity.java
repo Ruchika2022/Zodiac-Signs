@@ -1,4 +1,4 @@
-package com.example.verzeo;
+package com.example.ZodiacSigns;
 
 import androidx.appcompat.app.AppCompatActivity;
 
